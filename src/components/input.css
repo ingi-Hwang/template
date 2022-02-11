@@ -1,0 +1,28 @@
+.input {
+  font-size: 2.5rem;
+  padding: 0.5em;
+  list-style: none;
+}
+
+.input_name {
+  width: 20rem;
+  height: 2.5rem;
+  font-size: 1.6rem;
+  border: blue solid 2px;
+  box-sizing: border-box;
+}
+
+.input_add {
+  margin-left: 0.5em;
+  padding: 0;
+  width: 4rem;
+  height: 2.5rem;
+  font-size: 2rem;
+  background-color: green;
+  color: white;
+  text-align: center;
+}
+
+.input_add:hover {
+  opacity: 0.8;
+}

@@ -1,0 +1,12 @@
+.resetBtn {
+  width: 10rem;
+  height: 3rem;
+  margin-left: 1rem;
+  font-size: 2rem;
+  background-color: green;
+  color: white;
+}
+
+.resetBtn:hover {
+  opacity: 0.8;
+}
